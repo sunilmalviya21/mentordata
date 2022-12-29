@@ -1,0 +1,83 @@
+{
+  "Header": [
+      {
+          "SiteLogo": "Mentor"
+      },
+      {
+          "Menu": [
+              {
+                  "MenuText": "Home", "Url": "/"
+              },
+              {
+                  "MenuText": "About Us", "Url": "/about"
+              },
+              {
+                  "MenuText": "Services", "Url": "/courses"
+              },
+              {
+                  "MenuText": "Events", "Url": "/events"
+              },
+              {
+                  "MenuText": "Trainer", "Url": "/trainer"
+              },
+              {
+                  "MenuText": "Contact Us", "Url": "/contact"
+              }
+          ]
+      },
+      {
+          "GetStart": {
+            "Text": "Get Started",
+            "Url": "www.google.com"
+        }
+      }
+  ],
+  "Home": [
+      {
+          "Banner": [
+              {
+                  "Title": "Learning Today Leading Tomorrow",
+                  "Text": "We are team of talented designers making websites with Bootstrap",
+                  "Btntext": "Get Started",
+                  "BtnUrl": "www.google.com",
+                  "Image": ""
+              }
+          ]
+      }
+  ],
+  "Footer":[
+      {
+          "Footerabout":[
+              {
+                  "Address": "A108 Adam Street New York, NY 535022 United States"
+              },
+              {
+                  "Phone": "+1 5589 55488 55"
+              },
+              {
+                  "Email": "info@example.com"
+              }
+          ]
+      },
+      {
+          "FooterLinks":[
+              {
+                  "Title": "Useful Links",
+                  "Menu": ["Home", "About Us", "Services", "Terms of service", "Privacy policy"]
+              },
+              {
+                  "Title": "Our Services",
+                  "Menu": ["Web Design", "Web Development", "Product Management", "Marketing", "Graphic Design"]
+              }
+          ]
+      },
+      {
+          "Newsletter":[
+              {
+                  "Title": "Join Our Newsletter",
+                  "Text": "Tamen quem nulla quae legam multos aute sint culpa legam noster magna"
+              }
+          ]
+      }
+  ]
+}
